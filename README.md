@@ -1,6 +1,6 @@
 # ESP8266NodeMCU
 
-ESP8266 NodeMCU is well-known for its WIFI capabilities, but, there is only 1 analog input sensor. Hence, typical circuit connection would not enable us to collect more than 1 analog input. However, there are 2 ways to get over this, which is either to get a multiplexer or to create a simple circuit that mimicks a multiplexer. In this repository, i will show you the code and circuit connection to mimick a multiplexer.
+ESP8266 NodeMCU is well-known for its WIFI capabilities, but, there is only 1 analog input pin. Hence, typical circuit connection would not enable us to collect more than 1 analog input reading. However, there are 2 ways to get over this, which is either to get a multiplexer or to create a simple circuit that mimicks a multiplexer. In this repository, i will show you the code and circuit connection to mimick a multiplexer.
 
 Overall for my circuit setup, there is 3 photoresistors connected to collect analogo input data. The number of photoresistors could be scaled up to the number of GPIO pins available in the NodeMCU.
 
