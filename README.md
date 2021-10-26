@@ -12,6 +12,7 @@ Below is the image of the setup:
 
 Here is how the data would look like on Serial Monitor:
 
-![image](https://user-images.githubusercontent.com/84378807/138913482-5b8ad41b-29b2-4802-8e35-ad00921c85e8.png)
+<img src="https://user-images.githubusercontent.com/84378807/138913482-5b8ad41b-29b2-4802-8e35-ad00921c85e8.png" width=50% height=50%>
+
 
 
