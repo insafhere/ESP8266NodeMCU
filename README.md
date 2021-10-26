@@ -12,5 +12,11 @@ Overall for my circuit setup, there is 3 photoresistors connected to collect ana
 
 <img src="https://user-images.githubusercontent.com/84378807/138913482-5b8ad41b-29b2-4802-8e35-ad00921c85e8.png" width=50% height=50%>
 
+**NodeMCU GPIO Pins**
+
+<img src="https://user-images.githubusercontent.com/84378807/138916812-6ccfff58-1db8-4f80-8389-28262be5e41c.png" width=50% height=50%>
+
+**Reference:**
+https://www.youtube.com/watch?v=QW0YcxN3pao&ab_channel=cabuu
 
 
