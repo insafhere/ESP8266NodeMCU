@@ -8,8 +8,7 @@ Overall for my circuit setup, there is 3 photoresistors connected to collect ana
 
 Below is the image of the setup:
 
-![IMAGE 2021-10-26 23:43:56](https://user-images.githubusercontent.com/84378807/138913944-6ac0c5ce-e6e4-47d8-aec0-ab41cb6c126e.jpg)
-
+<img src="https://user-images.githubusercontent.com/84378807/138914127-3511a3a0-d95c-4273-901d-c235b2828d43.png" width=50% height=50%>
 
 Here is how the data would look like on Serial Monitor:
 
