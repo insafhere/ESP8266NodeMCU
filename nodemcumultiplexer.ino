@@ -52,6 +52,4 @@ void loop() {
   Serial.print("pin4=");
   Serial.println(value4);
 
-  //Using 220ohms as resistors
-
 }
