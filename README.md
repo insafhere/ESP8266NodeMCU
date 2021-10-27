@@ -6,7 +6,7 @@ Overall for my circuit setup, there are 4 photoresistors in the circuit to colle
 
 **Below is the image of the setup:**
 
-<img src="https://user-images.githubusercontent.com/84378807/139073916-f110ce48-3540-4115-a656-9253fc6c989c.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/84378807/139074780-ce2ab4a7-d1ba-452f-b3b2-348deca67bbd.jpg" width=50% height=50%>
 
 **Here is how the data would look like on Serial Monitor:**
 
