@@ -16,10 +16,9 @@ Overall for my circuit setup, there are 4 photoresistors in the circuit to colle
 
 <img src="https://user-images.githubusercontent.com/84378807/138916812-6ccfff58-1db8-4f80-8389-28262be5e41c.png" width=50% height=50%>
 
-
 **Arduino Resistors**
 
-<img src="https://user-images.githubusercontent.com/84378807/139074475-3b54fe59-52ce-48bf-a5d9-cb585263ebeb.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/84378807/139075330-ff25e6ae-01ed-441e-b21e-01304a01189a.png" width=50% height=50%>
 
 **Reference:**
 https://www.youtube.com/watch?v=QW0YcxN3pao&ab_channel=cabuu
