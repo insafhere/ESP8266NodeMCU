@@ -6,8 +6,8 @@ NodeMCU is an open source IoT platform. It includes firmware which runs on the E
 
 To be able to use the ESP8266 NodeMCU, will have to do these steps:
 
-Open Your Arduino IDE, then open preference from the file menu, then copy this link http://arduino.esp8266.com/stable/package_esp8266com_index.json to additional board manager URLs
-Open board manager from tools -> board -> board manager.and search from "nodemcu". Then select the latest version from the dropdown menu and click install and restart the Arduino IDE.
+1. Open Your Arduino IDE, then open preference from the file menu, then copy this link http://arduino.esp8266.com/stable/package_esp8266com_index.json to additional board manager URLs
+2. Open board manager from tools -> board -> board manager.and search from "nodemcu". Then select the latest version from the dropdown menu and click install and restart the Arduino IDE.
 
 **What is the problem?**
 
