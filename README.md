@@ -1,5 +1,16 @@
 # ESP8266NodeMCU
 
+What is NodeMCU?
+
+NodeMCU is an open source IoT platform. It includes firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which is based on the ESP-12 module. The term "NodeMCU" by default refers to the firmware rather than the development kits. The firmware uses the Lua scripting language.
+
+To be able to use the ESP8266 NodeMCU, will have to do these steps:
+
+Open Your Arduino IDE, then open preference from the file menu, then copy this link http://arduino.esp8266.com/stable/package_esp8266com_index.json to additional board manager URLs
+Open board manager from tools -> board -> board manager.and search from "nodemcu". Then select the latest version from the dropdown menu and click install and restart the Arduino IDE.
+
+**What is the problem?**
+
 ESP8266 NodeMCU is well-known for its WIFI capabilities, but, there is only 1 analog input pin. Hence, typical circuit connection would not enable us to collect more than 1 analog input reading. However, there are 2 ways to get over this. One is to either get a multiplexer and or the simpler solution is to create a circuit that mimicks a multiplexer. In this repository, i will show you the code and circuit connection to mimick a multiplexer.
 
 Overall for my circuit setup, there are 4 photoresistors in the circuit to collect analog input data. 220ohm resistors used to connect the photoresistors to GND. The number of photoresistors could be scaled up to the number of GPIO pins available in the NodeMCU.
